@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+*.swp
+*~
+
+# caches / logs
+**/.cache/
+**/*.log
+
+# Neovim
+nvim/.config/nvim/lazy-lock.json
